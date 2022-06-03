@@ -1,7 +1,7 @@
 ---
-ciscoLwappMobilityAnchorControlPathDown: .1.3.6.1.4.1.9.9.576.0.1
-ciscoLwappMobilityAnchorControlPathUp: .1.3.6.1.4.1.9.9.576.0.2
-ciscoLwappMobilityAnchorDataPathDown: .1.3.6.1.4.1.9.9.576.0.3
-ciscoLwappMobilityAnchorDataPathUp: .1.3.6.1.4.1.9.9.576.0.4
-ciscoLwappMobilityAllAnchorsOnWlanDown: .1.3.6.1.4.1.9.9.576.0.5
-ciscoLwappMobilityOneAnchorOnWlanUp: .1.3.6.1.4.1.9.9.576.0.6
+ciscoLwappMobilityAnchorControlPathDown: 1.3.6.1.4.1.9.9.576.0.1
+ciscoLwappMobilityAnchorControlPathUp: 1.3.6.1.4.1.9.9.576.0.2
+ciscoLwappMobilityAnchorDataPathDown: 1.3.6.1.4.1.9.9.576.0.3
+ciscoLwappMobilityAnchorDataPathUp: 1.3.6.1.4.1.9.9.576.0.4
+ciscoLwappMobilityAllAnchorsOnWlanDown: 1.3.6.1.4.1.9.9.576.0.5
+ciscoLwappMobilityOneAnchorOnWlanUp: 1.3.6.1.4.1.9.9.576.0.6

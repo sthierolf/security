@@ -1,11 +1,11 @@
 ---
-ciscoLwappApAssociatedNotify: .1.3.6.1.4.1.9.9.9998.0.1
-ciscoLwappApDisassociated: .1.3.6.1.4.1.9.9.9998.0.2
-ciscoLwappExtDot11ClientAuthenticationFailTrap: .1.3.6.1.4.1.9.9.9998.0.3
-ciscoLwappExtDot11ClientAssocFailTrap: .1.3.6.1.4.1.9.9.9998.0.4
-ciscoLwappExtAdjChannelOverRssiDetected: .1.3.6.1.4.1.9.9.9998.0.5
-ciscoLwappExtAdjChannelOverRssiRemoved: .1.3.6.1.4.1.9.9.9998.0.6
-ciscoLwappExtCurrentChannelOverRssiDetected: .1.3.6.1.4.1.9.9.9998.0.7
-ciscoLwappExtCurrentChannelOverRssiRemoved: .1.3.6.1.4.1.9.9.9998.0.8
-ciscoLwappExtClientOverRssiDetected: .1.3.6.1.4.1.9.9.9998.0.9
-ciscoLwappExtClientOverRssiRemoved: .1.3.6.1.4.1.9.9.9998.0.10
+ciscoLwappApAssociatedNotify: 1.3.6.1.4.1.9.9.9998.0.1
+ciscoLwappApDisassociated: 1.3.6.1.4.1.9.9.9998.0.2
+ciscoLwappExtDot11ClientAuthenticationFailTrap: 1.3.6.1.4.1.9.9.9998.0.3
+ciscoLwappExtDot11ClientAssocFailTrap: 1.3.6.1.4.1.9.9.9998.0.4
+ciscoLwappExtAdjChannelOverRssiDetected: 1.3.6.1.4.1.9.9.9998.0.5
+ciscoLwappExtAdjChannelOverRssiRemoved: 1.3.6.1.4.1.9.9.9998.0.6
+ciscoLwappExtCurrentChannelOverRssiDetected: 1.3.6.1.4.1.9.9.9998.0.7
+ciscoLwappExtCurrentChannelOverRssiRemoved: 1.3.6.1.4.1.9.9.9998.0.8
+ciscoLwappExtClientOverRssiDetected: 1.3.6.1.4.1.9.9.9998.0.9
+ciscoLwappExtClientOverRssiRemoved: 1.3.6.1.4.1.9.9.9998.0.10

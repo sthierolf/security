@@ -1,6 +1,6 @@
 ---
-cLRogueAdhocRogueDetected: .1.3.6.1.4.1.9.9.610.0.1
-cLRogueClientExceededThreshold: .1.3.6.1.4.1.9.9.610.0.2
-cLRogueExceededClientRemovedThreshold: .1.3.6.1.4.1.9.9.610.0.3
-cLRogueApRuleContained: .1.3.6.1.4.1.9.9.610.0.4
-cLRogueClientDetected: .1.3.6.1.4.1.9.9.610.0.5
+cLRogueAdhocRogueDetected: 1.3.6.1.4.1.9.9.610.0.1
+cLRogueClientExceededThreshold: 1.3.6.1.4.1.9.9.610.0.2
+cLRogueExceededClientRemovedThreshold: 1.3.6.1.4.1.9.9.610.0.3
+cLRogueApRuleContained: 1.3.6.1.4.1.9.9.610.0.4
+cLRogueClientDetected: 1.3.6.1.4.1.9.9.610.0.5

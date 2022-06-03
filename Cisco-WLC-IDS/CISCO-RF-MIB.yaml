@@ -1,5 +1,5 @@
 ---
-ciscoRFSwactNotif: .1.3.6.1.4.1.9.9.176.2.0.1
-ciscoRFProgressionNotif: .1.3.6.1.4.1.9.9.176.2.0.2
-ciscoRFIssuStateNotif: .1.3.6.1.4.1.9.9.176.2.0.3
-ciscoRFIssuStateNotifRev1: .1.3.6.1.4.1.9.9.176.2.0.4
+ciscoRFSwactNotif: 1.3.6.1.4.1.9.9.176.2.0.1
+ciscoRFProgressionNotif: 1.3.6.1.4.1.9.9.176.2.0.2
+ciscoRFIssuStateNotif: 1.3.6.1.4.1.9.9.176.2.0.3
+ciscoRFIssuStateNotifRev1: 1.3.6.1.4.1.9.9.176.2.0.4
