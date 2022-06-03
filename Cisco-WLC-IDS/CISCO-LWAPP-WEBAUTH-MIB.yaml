@@ -1,0 +1,6 @@
+---
+cLWAGuestUserRemoved: .1.3.6.1.4.1.9.9.515.0.1
+cLWAGuestUserAdded: .1.3.6.1.4.1.9.9.515.0.2
+cLWAGuestUserLoggedIn: .1.3.6.1.4.1.9.9.515.0.3
+cLWAGuestUserLoggedOut: .1.3.6.1.4.1.9.9.515.0.4
+cLWAPortalUnreachNotify: .1.3.6.1.4.1.9.9.515.0.5

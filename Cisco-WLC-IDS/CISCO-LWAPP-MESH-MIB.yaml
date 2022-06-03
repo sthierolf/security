@@ -1,0 +1,16 @@
+---
+ciscoLwappMeshAuthFailure: .1.3.6.1.4.1.9.9.616.0.1
+ciscoLwappMeshChildExcludedParent: .1.3.6.1.4.1.9.9.616.0.2
+ciscoLwappMeshParentChange: .1.3.6.1.4.1.9.9.616.0.3
+ciscoLwappMeshChildMoved: .1.3.6.1.4.1.9.9.616.0.4
+ciscoLwappMeshExcessiveParentChange: .1.3.6.1.4.1.9.9.616.0.5
+ciscoLwappMeshOnsetSNR: .1.3.6.1.4.1.9.9.616.0.6
+ciscoLwappMeshAbateSNR: .1.3.6.1.4.1.9.9.616.0.7
+ciscoLwappMeshConsoleLogin: .1.3.6.1.4.1.9.9.616.0.8
+ciscoLwappMeshDefaultBridgeGroupName: .1.3.6.1.4.1.9.9.616.0.9
+ciscoLwappMeshExcessiveHopCount: .1.3.6.1.4.1.9.9.616.0.10
+ciscoLwappMeshExcessiveChildren: .1.3.6.1.4.1.9.9.616.0.11
+ciscoLwappMeshOnsetHighSNR: .1.3.6.1.4.1.9.9.616.0.12
+ciscoLwappMeshAbateHighSNR: .1.3.6.1.4.1.9.9.616.0.13
+ciscoLwappMeshTemperatureStateChange: .1.3.6.1.4.1.9.9.616.0.14
+ciscoLwappMeshPskKeyAuthFailure: .1.3.6.1.4.1.9.9.616.0.15

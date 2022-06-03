@@ -1,0 +1,5 @@
+---
+ciscoLwappDot11ClientCoverageHolePreAlarm: .1.3.6.1.4.1.9.9.615.0.1
+ciscoLwappRrmRfGroupLeaderChange: .1.3.6.1.4.1.9.9.615.0.2
+ciscoLwappRrmRfGroupMemberAdded: .1.3.6.1.4.1.9.9.615.0.3
+ciscoLwappRrmRfGroupMemberRemoved: .1.3.6.1.4.1.9.9.615.0.4

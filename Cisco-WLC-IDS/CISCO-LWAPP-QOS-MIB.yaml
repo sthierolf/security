@@ -1,0 +1,6 @@
+---
+ciscoLwappVoipCallFailureNotif: .1.3.6.1.4.1.9.9.524.0.1
+ciscoLwappMediaMCStreamFailureNotif: .1.3.6.1.4.1.9.9.524.0.2
+ciscoLwappMediaMCStreamAdmitNotif: .1.3.6.1.4.1.9.9.524.0.3
+ciscoLwappMediaMCStreamDelistNotif: .1.3.6.1.4.1.9.9.524.0.4
+ciscoLwappKtsVoipCallFailureNotif: .1.3.6.1.4.1.9.9.524.0.5

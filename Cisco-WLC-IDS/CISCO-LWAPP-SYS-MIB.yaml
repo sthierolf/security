@@ -1,0 +1,12 @@
+---
+ciscoLwappSysInvalidXmlConfig: .1.3.6.1.4.1.9.9.618.0.1
+ciscoLwappNoVlanConfigured: .1.3.6.1.4.1.9.9.618.0.2
+ciscoLwappStrongPwdCheck: .1.3.6.1.4.1.9.9.618.0.3
+ciscoLwappSysCpuUsageHigh: .1.3.6.1.4.1.9.9.618.0.4
+ciscoLwappSysMemoryUsageHigh: .1.3.6.1.4.1.9.9.618.0.5
+ciscoLwappMaxRFIDTagsReached: .1.3.6.1.4.1.9.9.618.0.6
+ciscoLwappMaxClientsReached: .1.3.6.1.4.1.9.9.618.0.7
+ciscoLwappNMHeartBeat: .1.3.6.1.4.1.9.9.618.0.8
+ciscoLwappCfgFileAnalyzeFail: .1.3.6.1.4.1.9.9.618.0.9
+ciscoLwappWlcUpgradeFail: .1.3.6.1.4.1.9.9.618.0.10
+ciscoLwappRAIDStatus: .1.3.6.1.4.1.9.9.618.0.11

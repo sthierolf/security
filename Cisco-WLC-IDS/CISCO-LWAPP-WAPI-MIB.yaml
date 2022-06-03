@@ -1,0 +1,6 @@
+---
+ciscoLwappWapiUserInvalidCertificateNetworkTrap: .1.3.6.1.4.1.9.9.9997.4.1
+ciscoLwappWapiSecurityLowAttackTrap: .1.3.6.1.4.1.9.9.9997.4.2
+ciscoLwappWapiReplayAttackTrap: .1.3.6.1.4.1.9.9.9997.4.3
+ciscoLwappWapiTamperAttackTrap: .1.3.6.1.4.1.9.9.9997.4.4
+ciscoLwappWapiAddressRedirectAttackTrap: .1.3.6.1.4.1.9.9.9997.4.5

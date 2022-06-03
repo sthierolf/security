@@ -1,0 +1,11 @@
+---
+clmgmtLicenseExpired: .1.3.6.1.4.1.9.9.543.0.1
+clmgmtLicenseExpiryWarning: .1.3.6.1.4.1.9.9.543.0.2
+clmgmtLicenseUsageCountExceeded: .1.3.6.1.4.1.9.9.543.0.3
+clmgmtLicenseUsageCountAboutToExceed: .1.3.6.1.4.1.9.9.543.0.4
+clmgmtLicenseInstalled: .1.3.6.1.4.1.9.9.543.0.5
+clmgmtLicenseCleared: .1.3.6.1.4.1.9.9.543.0.6
+clmgmtLicenseRevoked: .1.3.6.1.4.1.9.9.543.0.7
+clmgmtLicenseEULAAccepted: .1.3.6.1.4.1.9.9.543.0.8
+clmgmtLicenseNotEnforced: .1.3.6.1.4.1.9.9.543.0.9
+clSmartLicDevStatus: .1.3.6.1.4.1.9.9.543.0.10

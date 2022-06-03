@@ -1,0 +1,4 @@
+---
+ciscoRfSupTimeChangeEvent: .1.3.6.1.4.1.9.9.198.0.1
+ciscoRfSupTimeZoneChangeEvent: .1.3.6.1.4.1.9.9.198.0.2
+ciscoRfSupHAFailureEvent: .1.3.6.1.4.1.9.9.198.0.3

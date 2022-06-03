@@ -1,0 +1,5 @@
+---
+cLHaSecondaryControllerUsageTrap: .1.3.6.1.4.1.9.9.198888.0.3.1
+cLHaRFSwapInfoTrap: .1.3.6.1.4.1.9.9.198888.0.3.2
+cLHaBulkSyncCompleteTrap: .1.3.6.1.4.1.9.9.198888.0.3.3
+cLHaPeerHotStandbyTrap: .1.3.6.1.4.1.9.9.198888.0.3.4

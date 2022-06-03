@@ -1,0 +1,13 @@
+---
+ciscoLwappDot11ClientKeyDecryptError: .1.3.6.1.4.1.9.9.599.0.1
+ciscoLwappDot11ClientAssocNacAlert: .1.3.6.1.4.1.9.9.599.0.2
+ciscoLwappDot11ClientDisassocNacAlert: .1.3.6.1.4.1.9.9.599.0.3
+ciscoLwappDot11ClientMovedToRunState: .1.3.6.1.4.1.9.9.599.0.4
+ciscoLwappDot11ClientStaticIpFailTrap: .1.3.6.1.4.1.9.9.599.0.5
+ciscoLwappDot11ClientDisassocDataStatsTrap: .1.3.6.1.4.1.9.9.599.0.6
+ciscoLwappDot11ClientAssocDataStatsTrap: .1.3.6.1.4.1.9.9.599.0.7
+ciscoLwappDot11ClientSessionTrap: .1.3.6.1.4.1.9.9.599.0.8
+ciscoLwappDot11ClientAssocTrap: .1.3.6.1.4.1.9.9.599.0.9
+ciscoLwappDot11ClientDeAuthenticatedTrap: .1.3.6.1.4.1.9.9.599.0.10
+ciscoLwappDot11ClientMovedToRunStateNewTrap: .1.3.6.1.4.1.9.9.599.0.11
+ciscoLwappDot11ClientMobilityTrap: .1.3.6.1.4.1.9.9.599.0.12

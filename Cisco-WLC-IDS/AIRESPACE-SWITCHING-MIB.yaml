@@ -1,0 +1,13 @@
+---
+multipleUsersTrap: .1.3.6.1.4.1.14179.1.50.1
+broadcastStormStartTrap: .1.3.6.1.4.1.14179.1.50.2
+broadcastStormEndTrap: .1.3.6.1.4.1.14179.1.50.3
+linkFailureTrap: .1.3.6.1.4.1.14179.1.50.4
+vlanRequestFailureTrap: .1.3.6.1.4.1.14179.1.50.5
+vlanDeleteLastTrap: .1.3.6.1.4.1.14179.1.50.6
+vlanDefaultCfgFailureTrap: .1.3.6.1.4.1.14179.1.50.7
+vlanRestoreFailureTrap: .1.3.6.1.4.1.14179.1.50.8
+fanFailureTrap: .1.3.6.1.4.1.14179.1.50.9
+stpInstanceNewRootTrap: .1.3.6.1.4.1.14179.1.50.10
+stpInstanceTopologyChangeTrap: .1.3.6.1.4.1.14179.1.50.11
+powerSupplyStatusChangeTrap: .1.3.6.1.4.1.14179.1.50.12

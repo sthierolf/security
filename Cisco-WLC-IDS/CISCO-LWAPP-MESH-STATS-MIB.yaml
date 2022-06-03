@@ -1,0 +1,5 @@
+---
+ciscoLwappMeshQueueOverflow: .1.3.6.1.4.1.9.9.617.0.1
+ciscoLwappMeshExcessiveAssociation: .1.3.6.1.4.1.9.9.617.0.2
+ciscoLwappMeshSecBackhaulChange: .1.3.6.1.4.1.9.9.617.0.3
+ciscoLwappMeshRadioRoleChange: .1.3.6.1.4.1.9.9.617.0.4
