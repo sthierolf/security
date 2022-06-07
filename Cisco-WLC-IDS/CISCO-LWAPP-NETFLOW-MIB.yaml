@@ -1,0 +1,26 @@
+---
+ciscoLwappNetflowMIB: 1.3.6.1.4.1.9.9.99996
+ciscoLwappNetflowMIBNotifs: 1.3.6.1.4.1.9.9.99996.0
+ciscoLwappNetflowMIBObjects: 1.3.6.1.4.1.9.9.99996.1
+ciscoLwappNetflowTableObjects: 1.3.6.1.4.1.9.9.99996.1.1
+cLNetflowMonitorTable: 1.3.6.1.4.1.9.9.99996.1.1.1
+cLNetflowMonitorEntry: 1.3.6.1.4.1.9.9.99996.1.1.1.1
+cLNetflowMonitorName: 1.3.6.1.4.1.9.9.99996.1.1.1.1.1
+cLNetflowMonitorRecordName: 1.3.6.1.4.1.9.9.99996.1.1.1.1.2
+cLNetflowMonitorRowStatus: 1.3.6.1.4.1.9.9.99996.1.1.1.1.3
+cLNetflowExporterTable: 1.3.6.1.4.1.9.9.99996.1.1.2
+cLNetflowExporterEntry: 1.3.6.1.4.1.9.9.99996.1.1.2.1
+cLNetflowExporterName: 1.3.6.1.4.1.9.9.99996.1.1.2.1.1
+cLNetflowExporterIPAddressType: 1.3.6.1.4.1.9.9.99996.1.1.2.1.2
+cLNetflowExporterIPAddress: 1.3.6.1.4.1.9.9.99996.1.1.2.1.3
+cLNetflowExporterPortNumber: 1.3.6.1.4.1.9.9.99996.1.1.2.1.4
+cLNetflowExporterRowStatus: 1.3.6.1.4.1.9.9.99996.1.1.2.1.5
+cLNetflowMonitorMappingTable: 1.3.6.1.4.1.9.9.99996.1.1.3
+cLNetflowMonitorMappingEntry: 1.3.6.1.4.1.9.9.99996.1.1.3.1
+cLNetflowMonitorMappingExporterName: 1.3.6.1.4.1.9.9.99996.1.1.3.1.1
+cLNetflowMonitorMappingRowStatus: 1.3.6.1.4.1.9.9.99996.1.1.3.1.2
+ciscoLwappNetflowMIBConform: 1.3.6.1.4.1.9.9.99996.2
+ciscoLwappNetflowMIBCompliances: 1.3.6.1.4.1.9.9.99996.2.1
+ciscoLwappNetflowMIBCompliance: 1.3.6.1.4.1.9.9.99996.2.1.1
+ciscoLwappNetflowMIBGroups: 1.3.6.1.4.1.9.9.99996.2.2
+cLNetflowConfigGroup: 1.3.6.1.4.1.9.9.99996.2.2.1
