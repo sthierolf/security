@@ -19,3 +19,22 @@ Link: https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_
 Cisco WLC IDS (Version 8.3) SNMP-Traps converted to yaml.
 
 Blog post: https://www.thierolf.org/blog/2022/cisco-wireless-intrusion-detection-events-to-elastic-stack/
+
+## bind9-rpz-blocklists
+Blocklists based on https://github.com/blocklistproject/Lists and https://pgl.yoyo.org/adservers/serverlist.php in Bind9 RPZ (Response Policy Zones) format.
+
+To include:
+
+**named.conf.local**
+  zone "rpz.abuse.local" {
+    type master;
+    file "/etc/bind/db.rpz.abuse.local";
+  };
+  #...etc
+
+**named.conf.options**
+	response-policy {
+	  zone "rpz.abuse.local" policy drop;
+    #...etc
+  };
+  
