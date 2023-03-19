@@ -26,15 +26,17 @@ Blocklists based on https://github.com/blocklistproject/Lists and https://pgl.yo
 To include:
 
 **named.conf.local**
-  zone "rpz.abuse.local" {
-    type master;
-    file "/etc/bind/db.rpz.abuse.local";
-  };
-  #...etc
+
+  	zone "rpz.abuse.local" {
+	    type master;
+	    file "/etc/bind/db.rpz.abuse.local";
+	  };
+	 #...etc
 
 **named.conf.options**
+
 	response-policy {
-	  zone "rpz.abuse.local" policy drop;
-    #...etc
-  };
+		zone "rpz.abuse.local" policy drop;
+	    	#...etc
+  	};
   
