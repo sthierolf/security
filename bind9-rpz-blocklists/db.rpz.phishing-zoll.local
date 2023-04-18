@@ -4,7 +4,7 @@
 ;
 $TTL 300
 @   IN  SOA localhost. root.localhost. (
-    12         ; serial
+    13         ; serial
     3H         ; refresh
     1H         ; retry
     1W         ; expiry
@@ -26,7 +26,7 @@ deutschpostde.com A 127.0.0.1
 *.post.de-Kunde.com A 127.0.0.1
 post.de-Kunde.com A 127.0.0.1
 *.lieferung-informationen-tracking.de A 127.0.0.1
-lieferung-informationen-tracking.de
+lieferung-informationen-tracking.de A 127.0.0.1
 *.dhlserviceparcel.com A 127.0.0.1
 dhlserviceparcel.com A 127.0.0.1
 *.parcel-deutschepost.com A 127.0.0.1
