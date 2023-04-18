@@ -1,0 +1,45 @@
+;
+; Based on Indicators of Compromise published at:
+; https://www.polizei-praevention.de/aktuelles/sms-oder-mails-behaupten-zusaetzliche-zollgebuehren-fuer-paketzustellung.html
+;
+$TTL 300
+@   IN  SOA localhost. root.localhost. (
+    12         ; serial
+    3H         ; refresh
+    1H         ; retry
+    1W         ; expiry
+    1H)        ; minimum
+@   IN  NS  localhost.
+
+*.post-traking.com A 127.0.0.1
+post-traking.com A 127.0.0.1
+*.dhl-de-world.com A 127.0.0.1
+dhl-de-world.com A 127.0.0.1
+*.deutschepostdienst.com A 127.0.0.1
+deutschepostdienst.com A 127.0.0.1
+*.meindeutschepost.com A 127.0.0.1
+meindeutschepost.com A 127.0.0.1
+*.dhl-paketshop.com A 127.0.0.1
+dhl-paketshop.com A 127.0.0.1
+*.deutschpostde.com A 127.0.0.1
+deutschpostde.com A 127.0.0.1
+*.post.de-Kunde.com A 127.0.0.1
+post.de-Kunde.com A 127.0.0.1
+*.lieferung-informationen-tracking.de A 127.0.0.1
+lieferung-informationen-tracking.de
+*.dhlserviceparcel.com A 127.0.0.1
+dhlserviceparcel.com A 127.0.0.1
+*.parcel-deutschepost.com A 127.0.0.1
+parcel-deutschepost.com A 127.0.0.1
+*.deutsche-post.com A 127.0.0.1
+deutsche-post.com A 127.0.0.1
+*.deutschepost-pakets.com A 127.0.0.1
+deutschepost-pakets.com A 127.0.0.1
+*.dhl.delivery-forwarding.com A 127.0.0.1
+dhl.delivery-forwarding.com A 127.0.0.1
+*.Parcell-deliver.com A 127.0.0.1
+Parcell-deliver.com A 127.0.0.1
+*.deutschepost-zoll.com A 127.0.0.1
+deutschepost-zoll.com A 127.0.0.1
+*.versandkosten-deutschepost.de A 127.0.0.1
+versandkosten-deutschepost.de A 127.0.0.1
