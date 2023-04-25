@@ -4,7 +4,7 @@
 ;
 $TTL 300
 @   IN  SOA localhost. root.localhost. (
-    13         ; serial
+    14         ; serial
     3H         ; refresh
     1H         ; retry
     1W         ; expiry
@@ -43,3 +43,45 @@ Parcell-deliver.com A 127.0.0.1
 deutschepost-zoll.com A 127.0.0.1
 *.versandkosten-deutschepost.de A 127.0.0.1
 versandkosten-deutschepost.de A 127.0.0.1
+*.deutschepost-parcel.com A 127.0.0.1
+deutschepost-parcel.com A 127.0.0.1
+*.deutschepost-shipment.de A 127.0.0.1
+deutschepost-shipment.de A 127.0.0.1
+*.paket.postdeutsche.com A 127.0.0.1
+paket.postdeutsche.com A 127.0.0.1
+*.info-deutschepost.com A 127.0.0.1
+info-deutschepost.com A 127.0.0.1
+*.deutschepost-info.de A 127.0.0.1
+deutschepost-info.de A 127.0.0.1
+*.dpost-service.com A 127.0.0.1
+dpost-service.com A 127.0.0.1
+*.service-dpost.de A 127.0.0.1
+service-dpost.de A 127.0.0.1
+*.dhl-myservice.com A 127.0.0.1
+dhl-myservice.com A 127.0.0.1
+*.dpost-help.com A 127.0.0.1
+dpost-help.com A 127.0.0.1
+*.deutsche-post-zoll.com A 127.0.0.1
+deutsche-post-zoll.com A 127.0.0.1
+*.deutschepost-zoll.com A 127.0.0.1
+deutschepost-zoll.com A 127.0.0.1
+*.paket-expresslieferung.de A 127.0.0.1
+paket-expresslieferung.de A 127.0.0.1
+*.dhl.paketlieferung.net A 127.0.0.1
+dhl.paketlieferung.net A 127.0.0.1
+*.parcel-delivered.com A 127.0.0.1
+parcel-delivered.com A 127.0.0.1
+*.rebrand.ly A 127.0.0.1
+rebrand.ly A 127.0.0.1
+*.meindeutschpost.com A 127.0.0.1
+meindeutschpost.com A 127.0.0.1
+*.post-de-lieferung.com A 127.0.0.1
+post-de-lieferung.com A 127.0.0.1
+*.deutschepost-info.de A 127.0.0.1
+deutschepost-info.de A 127.0.0.1
+*.deutschepost-paket.de A 127.0.0.1
+deutschepost-paket.de A 127.0.0.1
+*.dhl-folgen-sie-meineim-packet-de.com A 127.0.0.1
+dhl-folgen-sie-meineim-packet-de.com A 127.0.0.1
+*.support-dhl.de A 127.0.0.1
+support-dhl.de A 127.0.0.1
