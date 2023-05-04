@@ -85,3 +85,11 @@ deutschepost-paket.de A 127.0.0.1
 dhl-folgen-sie-meineim-packet-de.com A 127.0.0.1
 *.support-dhl.de A 127.0.0.1
 support-dhl.de A 127.0.0.1
+*.track-deutschepost.de A 127.0.0.1
+track-deutschepost.de A 127.0.0.1
+*.tracker-deutschepost.com A 127.0.0.1
+tracker-deutschepost.com A 127.0.0.1
+*.versandkosten-deutschepost.de A 127.0.0.1
+versandkosten-deutschepost.de A 127.0.0.1
+*.zollspakets-deutschepost.de A 127.0.0.1
+zollspakets-deutschepost.de A 127.0.0.1
