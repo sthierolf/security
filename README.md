@@ -8,7 +8,7 @@ Link: https://nvd.nist.gov/vuln/detail/CVE-2021-35061
 ## CVE-2021-35062
 A Shell Metacharacter Injection vulnerability in result.php in DRK Odenwaldkreis Testerfassung March-2021
 
-Link:"https://nvd.nist.gov/vuln/detail/CVE-2021-35062
+Link: https://nvd.nist.gov/vuln/detail/CVE-2021-35062
 
 ## sisyphus-win-10-telemetry.txt
 Blocklist for Pi-Hole based on BSI SiSyPHuS Win 10 Telemetry data
